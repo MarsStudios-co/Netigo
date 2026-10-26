@@ -9,7 +9,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+" />
-    <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-1.0.0-5B8CFF?style=for-the-badge" alt="Sürüm 1.0.0" />
+    <img src="https://img.shields.io/badge/S%C3%BCr%C3%BCm-1.0.0-5B8CFF?style=for-the-badge" alt="Sürüm 0.0.5" />
     <img src="https://img.shields.io/badge/Boyut-21%20MB-FFC65C?style=for-the-badge" alt="21 MB" />
   </p>
 
@@ -26,7 +26,7 @@ Netigo; çözdüğün soruları kaydeder, netlerini takip eder, hedefine göre h
 
 ## 📥 İndir
 
-Son sürüm: **[v1.0.0](../../releases/latest)**
+Son sürüm: **[v0.0.5](../../releases/latest)**
 
 | Dosya | Kimler için | Boyut |
 |---|---|---|
